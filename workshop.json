@@ -1,0 +1,42 @@
+{
+  "demo": true,
+  "name": "Bieżnik24",
+  "city": "Warszawa",
+  "district": "Wola",
+  "street": "",
+  "postal_code": "",
+  "phone": "000 000 000",
+  "phone_international": "+48000000000",
+  "email": "kontakt@example.com",
+  "hours": [
+    ["Pon. – pt.", "08:00–18:00"],
+    ["Sobota", "08:00–13:00"],
+    ["Niedziela", "Nieczynne"]
+  ],
+  "map_query": "Wola, Warszawa",
+  "map_embed_url": "",
+  "google_profile_url": "",
+  "facebook_url": "",
+  "instagram_url": "",
+  "form_endpoint": "",
+  "site_url": "",
+  "administrator": "",
+  "form_provider": "",
+  "retention": "",
+  "history": "",
+  "experience": "",
+  "seasonal_prices": [
+    ["13–14″", "120 zł", "140 zł"],
+    ["15–16″", "140 zł", "160 zł"],
+    ["17–18″", "160 zł", "190 zł"],
+    ["19–20″", "190 zł", "230 zł"],
+    ["21″ i większe", "Wycena indywidualna", "Wycena indywidualna"]
+  ],
+  "other_prices": [
+    ["Wymiana kompletu kół", "od 80 zł / komplet"],
+    ["Wyważenie koła", "od 25 zł / koło"],
+    ["Naprawa przebicia", "od 60 zł / opona"],
+    ["Wymiana zaworu gumowego", "od 15 zł / szt."],
+    ["Montaż lub demontaż opony", "od 30 zł / szt."]
+  ]
+}
