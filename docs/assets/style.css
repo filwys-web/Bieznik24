@@ -85,7 +85,7 @@ h3 { font-size: 1.23rem; letter-spacing: -.018em; }
 .hero-copy { width: 100%; max-width: calc(var(--container) / 2 + var(--gutter)); justify-self: end; align-self: center; padding: clamp(52px, 6vw, 96px) clamp(24px, 3.2vw, 54px) clamp(54px, 6.3vw, 100px) var(--gutter); }
 .eyebrow { display: flex; align-items: center; gap: 11px; color: #d5d5d5; font-size: .77rem; font-weight: 700; letter-spacing: .13em; line-height: 1.4; text-transform: uppercase; }
 .eyebrow::before { content: ""; flex: 0 0 23px; height: 2px; background: #aaa; }
-.hero h1 { margin-top: 19px; font-size: clamp(2.6rem, 5.55vw, 5.25rem); line-height: .99; font-weight: 800; letter-spacing: -.062em; }
+.hero h1 { margin-top: 19px; font-size: clamp(2.35rem, 5vw, 4.2rem); line-height: .99; font-weight: 800; letter-spacing: -.062em; }
 .hero-description { max-width: 420px; margin-top: 22px; color: #dbdbdb; font-size: clamp(1rem, 1.3vw, 1.15rem); line-height: 1.58; }
 .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 25px; }
 .hero-media { position: relative; min-width: 0; min-height: 452px; overflow: hidden; background: #4a4a4a; }
@@ -218,7 +218,6 @@ figcaption { margin-top: 8px; color: var(--muted); font-size: .875rem; }
   .main-nav { gap: 14px; }
   .main-nav a { font-size: .86rem; }
   .header-phone { padding-inline: 10px; }
-  .hero h1 { font-size: clamp(2.3rem, 5vw, 3.25rem); }
   .hero-media { min-height: 405px; }
 }
 
